@@ -108,6 +108,7 @@ func main() {
 		fmt.Fprintf(os.Stderr, "Full HTTP response: %v\n", r)
 		panic(err)
 	}
+}
 ```
 
 ## ✍ Contributions
